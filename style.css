@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(rgb(12, 172, 221), rgb(14, 28, 226));
+    font-family: sans-serif;
+}
+
+.app{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-transform: capitalize;
+    
+    
+
+}
+
+
+.musicp{
+    height: 20rem;
+    background-color: blanchedalmond;
+    width: 30%;
+    border-radius: 2em;
+    box-shadow: 5px 5px 11px #a2b1c6, -5px -5px 11px #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#btn{
+    margin: 50px 5px;
+    padding: 2em;
+    border: 0px;
+    background-color: rgb(56, 190, 243);
+    border-radius: 2em;
+    box-shadow: 5px 5px 11px #a2b1c6, -5px -5px 11px #fff;
+}
